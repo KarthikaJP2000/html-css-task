@@ -121,7 +121,7 @@ nav ul li a {
   -webkit-text-fill-color: transparent;
 }
 
-#landing-column-2 {
+#column-2 {
   height: 40%;
   align-items: center;
   justify-content: space-around;
@@ -137,7 +137,7 @@ nav ul li a {
   line-height: 100px;
 }
 
-#landing-column-3 {
+#column-3 {
   height: 35%;
 }
 
